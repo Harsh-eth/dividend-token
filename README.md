@@ -27,3 +27,8 @@ payments proportional to their token balance.
 - Swap-and-pop for O(1) holder removal
 - SafeMath throughout (pragma 0.7.0)
 - Dividend preserved after burn or transfer
+
+## Live Deployment
+Network: Base Mainnet
+Address: 0x6B6105868fC74A054CED08fcc0Aa3AF0B81d888B
+https://basescan.org/address/0x6B6105868fC74A054CED08fcc0Aa3AF0B81d888B
